@@ -17,3 +17,11 @@ footer {
     padding-bottom: 2rem;
     margin-top: 2rem;
 }
+
+ul>li {
+    list-style: none;
+}
+
+pre {
+    overflow-x: scroll;
+}
