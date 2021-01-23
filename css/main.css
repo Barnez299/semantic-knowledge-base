@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1.ui.header {
+    margin-bottom: 0;
+}
+
+#h1head {
+    color: red;
+}
