@@ -6,6 +6,14 @@ h1.ui.header {
     margin-bottom: 0;
 }
 
-#h1head {
-    color: red;
+.ui.divider {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: gainsboro;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
 }
